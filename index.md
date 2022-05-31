@@ -4,58 +4,11 @@ title: Resume
 ---
 
 ---
-## EXPERIENCE
----
-
-### Therap (BD) Ltd.  
-***Software Engineer, QA (Oct 2019 - Present)*** &middot;	***Full-time***   
-
-* Has been the primary QA personnel responsible for a number of re-designed modules of my team
-* Has assisted an external team at Therap for one of their re-designed modules 
-* Find scopes of test automation and prepare test automation scripts using Selenium WebDriver (Java)
-* Guide new QA members in the team
-
-***Associate Software Engineer, QA (Sep 2018 – Sep 2019)*** &middot;	***Full-time*** 
-* Perform exploratory testing and, document and report bugs for each assigned new
-features/improvement of existing features/bug fixes targeting a release
-* Carry out regression testing prior to each release
-* Document functionalities of new and existing modules of my team
-* Collaborate with Software Developers to work on new features, improvement of existing features and bug fixes
-* Collaborate with Database Engineers to work on custom reports
-* Collaborate with Training & Content Specialists to work on release notes
-
-### HackerRank  
-***Challenge Creator (Sep 2018 – Sep 2019)*** &middot;	***Remote***
-* Created challenges for the contests: *Women's CodeSprint 3*, *Women's CodeSprint 4*, *Women's CodeSprint 5* and *RookieRank 4 in HackerRank for Developers*
-* Created challenges for technical recruiting in HackerRank for Work
-
-### Sourcetop, Inc  
-***Jr. Software Engineer (Feb 2018 – Aug 2018)*** &middot;	***Full-time***
-* Worked as a Backend Developer
-* Developed Sourcetop's website using Drupal 8
-* Worked on data migration tasks for an online educational platform project built using Moodle LMS
-
-### BRAC University     
-***Undergraduate Teaching Assistant (Jun 2015 – Aug 2016)*** &middot;	***Part-time***  
-* Appointed for the course, Programming Language II (CSE 111)
-* Helped students during tutoring time to understand concepts of Object-Oriented Language (Java)
-* Graded quiz papers  
-
-<br />
-
----
 ## EDUCATION
 ---
-### BRAC University  
-*Bachelor of Science in Computer Science (Jan 2013 - Aug 2017)*  
-CGPA: **3.71** (out of **4.00**) 
-
-### Oxford International School
-*GCE A Level*  
-Result: **4 As** and **1 B**
-
-*GCE O Level*  
-Result: **4 A*s**, **3 As** and **2 Bs**
+### Hajee Mohammad Danesh Science and Technology University  
+*Bachelor of Science in Electronics & Communications Engineering (Jan 2016 - Sep 2022)*  
+CGPA: **3.25** (out of **4.00**) 
 
 <br />
 
@@ -75,7 +28,8 @@ Result: **4 A*s**, **3 As** and **2 Bs**
 ---
 ## PROJECT
 ---
-* **[Test Automation Boilerplate](https://github.com/Tahanima/test-automation-boilerplate):** Ready to use UI Test Automation Architecture  
+* **[Invulnerable Online Exam Automation System](https://github.com/rummansadik/Admission-Automation):**  It is a web application that provide secure login
+system with face detection process, examination room with face-recognition system with different exam method type and the automatic and manual evaluating making system for the course teacher.  
 **Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git 
 
 <br />
@@ -83,5 +37,5 @@ Result: **4 A*s**, **3 As** and **2 Bs**
 ---
 ## SKILLS  
 ---
-* **Languages:** Java, C++, Ruby, SQL
-* **Tools** &#124; **Technologies:** Selenium WebDriver, Gradle, TestNG, Jekyll, Git, JIRA
+* **Languages:** C++, Python, SQL
+* **Tools** &#124; **Technologies:** Git, JIRA
