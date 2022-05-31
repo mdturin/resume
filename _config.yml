@@ -1,16 +1,16 @@
-title: Tahanima Chowdhury
-description: Software Engineer, QA @ Therap (BD) Ltd.
-baseurl: "/remple/"
+title: Md Mujahedul Azad (Turin)
+description: Competitive Programmer
+baseurl: "/resume/"
 url: ""
 photo_url: "my-photo.jpg"
 
 # This is an optional section
 # You can skip filling in one or more of the items in this section
-email: "tahanimachowdhury@gmail.com"
-linkedin: "http://linkedin.com/in/tahanima-chowdhury"
-github: "https://github.com/Tahanima"
-website: "http://tahanima.github.io/"
-medium: "https://tahanima.medium.com/"
+email: "matkhan01@gmail.com"
+linkedin: "http://linkedin.com/in/mdturin"
+github: "https://github.com/mdturin"
+website: "*"
+medium: "*"
 
 markdown: kramdown
 theme: minima
